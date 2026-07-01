@@ -23,3 +23,17 @@ Para mostrar el logotipo interactivo, pega el siguiente shortcode en tu página,
 
 ```text
 [nascor_particle_logo]
+
+Personalización de URL
+Si deseas utilizar una imagen específica distinta a la configurada por defecto, puedes pasar el parámetro logo_url directamente en el shortcode[cite: 7]:
+
+Plaintext
+[nascor_particle_logo logo_url="[https://tu-sitio.com/tu-logo-personalizado.png](https://tu-sitio.com/tu-logo-personalizado.png)"]
+👨‍💻 Autor y Versión
+Autor: Nascor Estudio Creativo[cite: 7]
+
+Versión: 2.0.1[cite: 7]
+
+Sitio Web: Nascor.ar
+
+[cite: 7]
